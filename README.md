@@ -1,3 +1,6 @@
-## Repositório Cluster EKS Terraform
+## GoodVideo - Cluster EKS Terraform
 
 Esse repositório contém os arquivos terraform para fazer o setup de um cluster com Kubernetes provisionando uma máquina t2.medium.
+
+## Como rodar:
+Comando: terraform apply
